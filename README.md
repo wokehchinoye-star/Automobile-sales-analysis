@@ -1,6 +1,5 @@
 # 📊Automobile-sales-analysis-project overview
 
-![Dashboard screenshot](Screenshots/dashboard.png)
 ## This project presents an interactive Automobile Sales Dashboard designed to analyze sales performance, profitability, customer demographics, and regional trends. The dashboard provides key insights to support data-driven decision-making in sales and product strategy.
 
 ## 🎯 Objectives

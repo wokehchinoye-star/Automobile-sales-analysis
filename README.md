@@ -30,7 +30,7 @@
 - Revenue analysis by age group and gender
 - Profit margin comparison by product sub-category
 
-  - Revenue trend visualization across multiple years
+- Revenue trend visualization across multiple years
 - Country-level sales comparison
 
 ## 🚀 Outcome

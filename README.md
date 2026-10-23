@@ -24,7 +24,7 @@
 - Tableau – Dashboard development and visualization
 - Microsoft Excel – Data preparation and cleaning
 
-- (Dashboard Screenshot)[]
+- (Dashboard Screenshot)[https://github.com/wokehchinoye-star/Automobile-sales-analysis/blob/main/dashboard.png.png]
 ## 📂 Dashboard Features
 - KPI summary cards for quick performance overview
 - Average unit price by category

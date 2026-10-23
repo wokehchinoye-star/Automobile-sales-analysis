@@ -13,7 +13,7 @@
 - Total Revenue: 94.7M
 - Total Profit: 32.0M
 
-  - Average Unit Price: Bikes have significantly higher average unit prices compared to Clothings and Accessories
+- Average Unit Price: Bikes have significantly higher average unit prices compared to Clothings and Accessories
 - Top Revenue Age Group: 26–35 years
 - Highest Sales Region: United States
 - Peak Revenue Year: 2015
